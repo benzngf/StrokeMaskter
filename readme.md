@@ -1,4 +1,4 @@
-##An After Effects Plugin for Emitting Layers Along Mask Path
+## An After Effects Plugin for Emitting Layers Along Mask Path
 
 [![ScreenShot](https://img.youtube.com/vi/v7lefHGX6fQ/hqdefault.jpg)](https://youtu.be/v7lefHGX6fQ)
 
